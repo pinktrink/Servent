@@ -31,4 +31,5 @@ source.addEventListnere("open", function(){
 });
 ```
 
-Please note that this is **untested** at the moment.  I need to test it in all browsers, IE6 and up.
+Please note that this is **untested** at the moment.  I need to test it in all
+browsers, IE6 and up.
