@@ -1,4 +1,4 @@
-This is a small shiv that I created to replicate the functionality declared in
+This is a small polyfill that I created to replicate the functionality declared in
 [http://www.w3.org/TR/2011/WD-eventsource-20110310/](http://www.w3.org/TR/2011/WD-eventsource-20110310/).
 
 Usage is as follows:
